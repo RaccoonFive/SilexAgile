@@ -1,0 +1,13 @@
+{
+    "name": "kevenp/silex",
+    "authors": [
+        {
+            "name": "Keven Parent",
+            "email": "lenigma444@hotmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "^2.0",
+        "twig/twig": "^1.24"
+    }
+}
